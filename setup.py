@@ -1,4 +1,5 @@
 from setuptools import setup
+from sklearn.ensemble import RandomForestClassifier
 
 
 setup(
