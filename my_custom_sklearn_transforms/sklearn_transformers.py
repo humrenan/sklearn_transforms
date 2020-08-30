@@ -1,4 +1,5 @@
 from sklearn.base import BaseEstimator, TransformerMixin
+from sklearn.ensemble import RandomForestClassifier
 
 
 # All sklearn Transforms must have the `transform` and `fit` methods
